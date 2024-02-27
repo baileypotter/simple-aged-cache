@@ -1,6 +1,4 @@
-# simple-aged-cache
-Software Architecture for Big Data Fundamentals- CU Boulder coding exercise
-Simple aged cache
+# Simple Aged Cache
 An exercise to help individuals new to modern software engineering practices understand the basics of test driven development.
 
 Background
