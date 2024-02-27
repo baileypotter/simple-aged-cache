@@ -1,7 +1,7 @@
 # Simple Aged Cache
 An exercise to help individuals new to modern software engineering practices understand the basics of test driven development.
 
-Background
+# Background
 The simple aged cache was one of the first bits of code that I paired on in the early 2000s while working at a telecommunications company. Ever since, I've been a fan of test driven development and pair programming.
 
 Over the years that followed, I've attempted to introduce variations of the cache as part of the interview process at several companies. Most early attempts were fairly unsuccessful.
